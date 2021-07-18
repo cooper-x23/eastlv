@@ -1,0 +1,13 @@
+--UTILS
+
+-- function isInSlot(position, size) 
+--     if isCursorShowing() then 
+--         cPosX, cPosY = getCursorPosition()
+--         cPosX, cPosY = cPosX * sx, cPosY * sy
+--         if ( (cPosX > position.x) and (cPosY > position.y) and (cPosX < position.x + size.x) and (cPosY < position.y + size.y) ) then 
+--             return true 
+--         else
+--             return false
+--         end
+--     end
+-- end

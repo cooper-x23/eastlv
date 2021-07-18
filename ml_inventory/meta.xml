@@ -1,0 +1,17 @@
+<meta>
+    <script src='client.lua' type='client' cache='false' />
+    <script src='utils.lua' type='client' cache='false' />
+    <script src='server.lua' type='server' />
+    <file src='files/1.png' />
+    <file src='files/2.png' />
+    <file src='files/3.png' />
+    <file src='files/bag.png' />
+    <file src='files/keys.png' />
+    <file src='files/wallet.png' />
+    <file src='files/craft.png' />
+    <export function='getInventorySize' type='client' />
+    <export function='drawItemImage' type='client' />
+    <export function='givePlayerItem' type='client' />
+    <export function='getItemName' type='client' />
+    <oop>true</oop>
+</meta>

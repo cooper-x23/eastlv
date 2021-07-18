@@ -1,0 +1,8 @@
+<meta>
+	<script src='client.lua' type='client' cache='false' />
+	<script src='server.lua' type='server' />
+	<oop>true</oop>
+	<file src='models/1.txd' cache='false' />
+	<file src='models/1.dff' cache='false' />
+	<file src='img/crane-truck.png' cache='false' />
+</meta>

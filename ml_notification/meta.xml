@@ -1,0 +1,14 @@
+<meta>
+    
+    <script src="sourceC.lua" type="client" cache="false"/>
+    <script src="sourceS.lua" type="server" />
+    
+    <file src="files/Roboto.ttf" />
+    <file src="files/effect.mp3" />
+    <file src="files/icon.png" />
+    <file src="files/warning.png" />
+    <file src="files/admin.png" />
+    
+    <export function="addNotification" type="client" />
+    <export function="addNotification" type="server" />
+</meta>

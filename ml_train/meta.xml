@@ -1,0 +1,9 @@
+<meta>
+	<script src='client.lua' type='client' cache='false' />
+	<script src='server.lua' type='server' />
+	<oop>true</oop>
+	<file src='models/1.txd' />
+	<file src='models/1.dff' />
+	<file src='models/2.txd' />
+	<file src='models/2.dff' />
+</meta>

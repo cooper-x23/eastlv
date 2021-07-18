@@ -1,0 +1,9 @@
+<meta>
+    <script src="mainC.lua" type="client" cache="false"/>
+    <script src="mainS.lua" type="server" />
+    <file src="files/chat.png"/>
+    <file src="files/logo.png"/>
+    <file src="files/afk.png"/>
+    <file src="files/console.png"/>
+    <file src="files/npc.png"/>
+</meta>

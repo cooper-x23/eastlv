@@ -1,0 +1,23 @@
+<meta>
+    <script src="sourceC.lua" type="client" cache="false" />  
+    <script src="levelC.lua" type="client" cache="false" />  
+    <file src="files/font.ttf"/>  
+    <file src="files/small_logo.png"/> 
+    <file src="files/delete.png"/> 
+    <file src="files/reset.png"/> 
+    <file src="files/move.png"/>
+    <file src="files/click.mp3"/>  
+
+    <script src="hud/sourceC.lua" type="client" cache="false" />  
+    <file src="hud/img/hp.png"/>
+    <file src="hud/img/kevlar.png"/>
+    <file src="hud/img/food.png"/>
+    <file src="hud/img/drink.png"/>
+    <file src="hud/img/run.png"/>
+    <export function="getPlayerLevel" type="client" />
+    <export function="getWidgetDatas" type="client" />
+    <export function="isWidgetShowing" type="client" />
+    
+    
+    <min_mta_version server="1.3.4-0.00000" client="1.5.6-9.18728"></min_mta_version>&gt;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;
+</meta>

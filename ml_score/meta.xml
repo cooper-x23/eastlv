@@ -1,0 +1,6 @@
+<meta>
+    <script src="sourceC.lua" type="client" cache="false"/>
+    <file src="files/logo.png" />
+    <file src="files/players.png" />
+    <file src="files/font.ttf" />
+</meta>

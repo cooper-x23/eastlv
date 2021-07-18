@@ -1,0 +1,17 @@
+<meta>
+	<script src = "sourceS.lua" type = "server" />
+	<script src = "sourceC.lua" type = "client" cache="false" />
+	<script src = "sourceG.lua" type = "shared" cache="false" />
+	<export function = "getServerColor" type = "shared" />
+	<export function = "getVehicleName" type = "shared" />
+	<export function = "findPlayerByPartialNick" type = "shared" />
+	<export function = "getOwnerSerial" type = "shared" />
+	<export function = "getAdminRank" type = "shared" />
+	<export function = "isInSlot" type = "client" />
+	<export function="getFont" type="client" />
+
+	<file src = "files/font.ttf"/>
+
+	
+	
+</meta>

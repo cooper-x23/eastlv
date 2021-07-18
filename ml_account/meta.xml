@@ -1,0 +1,16 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="utils.lua" type="client" cache="false" />
+
+
+    <script src="server.lua" type="server" />
+
+    <file src="files/small_logo.png"/>
+    <file src='files/font.ttf' cache='false' />
+    <file src='files/login.png' cache='false' />
+    <file src='files/register.png' cache='false' />
+
+
+
+    <oop>true</oop>
+</meta>

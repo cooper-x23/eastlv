@@ -1,0 +1,40 @@
+<meta>
+	<script src = "sourceC.lua" type = "client" cache="false" />
+	<file src = "files/font.ttf"/>
+	<file src = "files/home.png"/>
+	<file src = "files/dollar.png"/>
+	<file src = "files/settings.png"/>
+	<file src = "files/small_logo.png"/>
+	<file src = "files/switch.png"/>
+	<file src = "files/premium.png"/>
+    <file src = "files/click.mp3"/>
+
+	<script src="shaders/hd/hd.luac" type="client" />
+    <file src="shaders/hd/detail.fx" type="client" />
+    <file src="shaders/hd/detail04.png" type="client" />
+    <file src="shaders/hd/detail22.png" type="client" />
+    <file src="shaders/hd/detail29.png" type="client" />
+    <file src="shaders/hd/detail35T.png" type="client" />
+    <file src="shaders/hd/detail55.png" type="client" />
+    <file src="shaders/hd/detail58.png" type="client" />
+    <file src="shaders/hd/detail63.png" type="client" />
+    <file src="shaders/hd/detail68.png" type="client" />
+    <file src="shaders/hd/dirty.png" type="client" />
+    <file src="shaders/hd/mta-helper.fx" type="client" />
+    
+    <script src="shaders/vehicle/vehicle.luac" type="client" />
+    <file src="shaders/vehicle/fx/car_refgene.fx" />
+    <file src="shaders/vehicle/fx/car_refgrun.fx" />
+    <file src="shaders/vehicle/fx/mta-helper.fx" />
+    <file src="shaders/vehicle/images/smallnoise3d.dds" />
+
+        
+    <script src="shaders/contrast/c_bloom.lua" type="client" />    
+    <file src="shaders/contrast/addBlend.fx" />    
+    <file src="shaders/contrast/blurH.fx" />   
+    <file src="shaders/contrast/blurV.fx" />   
+    <file src="shaders/contrast/brightPass.fx" />   
+    <file src="shaders/contrast/mta-helper.fx" />
+    
+    <min_mta_version server="1.5.6-9.18728" client="1.5.6-9.18728"></min_mta_version>
+</meta>

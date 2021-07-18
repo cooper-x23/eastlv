@@ -1,0 +1,18 @@
+<meta>
+	<script src="sourceC.lua" type="client" cache="false"/>
+    <file src="files/speedobg.png"/>
+    <file src="files/needle.png"/>
+    <file src="files/belt.png"/>
+    <file src="files/light.png"/>
+    <file src="files/handbrake.png"/>
+    <file src="files/index_l.png"/>
+    <file src="files/index_r.png"/>
+    <file src="files/oil.png"/>
+    <file src="files/fuel.png"/>
+
+    <script src="handbrake/handbrakeC.lua" type="client" cache="false" />
+    <script src="handbrake/handbrakeS.lua" type="server" />
+    <file src="handbrake/bg.png" />
+    <file src="handbrake/line.png" />
+    <file src="handbrake/handbrake.wav" />
+</meta>
